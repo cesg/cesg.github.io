@@ -21,10 +21,10 @@
   },
   "homepage": "https://github.com/cesg/cesg.github.io#readme",
   "devDependencies": {
-    "autoprefixer": "^9.7.6",
+    "autoprefixer": "^9.8.0",
     "cssnano": "^4.1.10",
     "live-server": "^1.2.1",
-    "postcss-cli": "^7.1.0",
-    "tailwindcss": "^1.3.5"
+    "postcss-cli": "^7.1.1",
+    "tailwindcss": "^1.4.6"
   }
 }
