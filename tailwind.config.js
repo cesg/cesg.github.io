@@ -486,6 +486,9 @@ module.exports = {
     wordBreak: ['responsive'],
     zIndex: ['responsive'],
   },
+  purge: [
+    './index.html'
+  ],
   corePlugins: {},
   plugins: [],
 }
